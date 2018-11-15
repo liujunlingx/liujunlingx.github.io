@@ -2,6 +2,12 @@
 layout: default
 title: moods
 ---
+vamino豆奶真好喝，离开江湖，还有点舍不得了呢。  
+2018-11-15 11:46:29
+
+两首目标曲子，Larrons en foire、Micmacs a la gare。  
+2018-11-14 14:22:10
+
 好多大部头的书要看啊。  
 2018-11-13 17:58:59
 

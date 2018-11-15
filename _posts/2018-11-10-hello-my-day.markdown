@@ -9,5 +9,6 @@ learned a lot of new things which just blows my mind,such as
 - css override priority stuff
 - jekyll directory structures
 - liquid grammar, and some useful vim operations
+- using a plugin [jekyll-redirect-from](https://github.com/jekyll/jekyll-redirect-from) to redirect '/' to '/about'
 
 it's a good start and a happy day to be rememebered.
