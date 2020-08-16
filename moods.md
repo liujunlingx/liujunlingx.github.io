@@ -2,13 +2,25 @@
 layout: default
 title: moods
 ---
+毕业答辩顺利通过，休息一下开始完成下一个目标。  
+2019-05-27 07:15:06
+
+it's raining outside.  
+2019-05-18 01:43:24
+
+Micmacs a la gare done.  
+2019-05-13 21:23:35
+
+buy yourself a memory, not product   
+2019-04-02 23:39:59
+
 el mundo esta lleno de personas buenas, si no puedes encontrar, se una  
 live and let loda, vive y deja vivir  
 vive el presente, el futuro no existe  
 dios ayuda a quien se ayuda a si mismo  
 2019-03-08 10:14:03
 
-Mic macs a la gare kick off  
+Micmacs a la gare kick off  
 2019-03-08 10:10:55
 
 graduation paper kick off  
